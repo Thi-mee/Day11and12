@@ -1,1 +1,1 @@
-# Day11and12
+# Day 11 and 12 - Interactive rating component
