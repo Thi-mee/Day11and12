@@ -123,3 +123,12 @@ p{
   right: 30px;
   bottom: 30px;
 }
+
+@media only screen and (max-width: 375px) {
+  .rating-card.show,
+  .thank-you-card.show{
+    max-width: 340px;
+    height: 380px;
+    padding: 1.2em;
+  }
+}
